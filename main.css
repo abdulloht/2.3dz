@@ -1,0 +1,33 @@
+.q {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+}
+.a {
+   justify-content: center;
+   justify-content: space-evenly;
+    display: flex;
+    padding-top: 40px;
+    
+}
+.left {
+    width: 400px;
+    height: 300px;
+    background-color: red;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.right {
+    width: 400px;
+    height: 300px;
+    background-color: red;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.r {
+    text-align: center;
+}
